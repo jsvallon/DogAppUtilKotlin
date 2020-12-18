@@ -1,6 +1,5 @@
-# DogAppUtilKotlin
 
-# Project : DogAppUtil
+# Project : DogAppUtilKotlin
 
 Version Kotlin of start for a mini sdk for thie dogs app : https://docs.thedogapi.com
 For right now contain the implementation of two endpoint.
